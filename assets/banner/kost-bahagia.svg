@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title description">
+<title id="title">Kost Bahagia Network Optimization | Xiao Systems</title>
+<desc id="description">Dark terminal-inspired banner featuring a 3-floor building grid with 12 wireless access points, one main router and Ethernet backbone.</desc>
+<defs>
+ <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A111E"/><stop offset="1" stop-color="#102336"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#4ADFC3"/><stop offset="1" stop-color="#77C7FF"/></linearGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#28445B" stroke-width="0.6" opacity="0.32"/></pattern>
+</defs>
+<rect width="1200" height="340" rx="18" fill="url(#background)"/>
+<rect width="1200" height="340" rx="18" fill="url(#grid)"/>
+<path d="M35 31H1165" stroke="#2B4355" stroke-width="1"/><circle cx="49" cy="17" r="4" fill="#4ADFC3"/><circle cx="64" cy="17" r="4" fill="#3B8DB2"/><circle cx="79" cy="17" r="4" fill="#2B485F"/>
+<text x="42" y="72" fill="#5CE7C6" font-family="DejaVu Sans Mono,monospace" font-size="15" font-weight="bold">XIAO SYSTEMS  /  FIELD ENGINEERING</text>
+<text x="42" y="132" fill="#F0F7FF" font-family="DejaVu Sans Mono,monospace" font-size="43" font-weight="bold">KOST BAHAGIA</text>
+<text x="43" y="176" fill="#9DD8FC" font-family="DejaVu Sans Mono,monospace" font-size="27">NETWORK OPTIMIZATION</text>
+<rect x="42" y="199" width="635" height="3" rx="1.5" fill="url(#accent)"/>
+<text x="42" y="235" fill="#B4C9D6" font-family="DejaVu Sans,sans-serif" font-size="18">Wired backhaul  |  Wi-Fi 6  |  3-floor deployment</text>
+<text x="42" y="298" fill="#5CE7C6" font-family="DejaVu Sans Mono,monospace" font-size="16">12 WIRED APs</text>
+<text x="229" y="298" fill="#819BAD" font-family="DejaVu Sans Mono,monospace" font-size="16">/</text>
+<text x="261" y="298" fill="#87CEFF" font-family="DejaVu Sans Mono,monospace" font-size="16">1 MAIN ROUTER</text>
+<text x="492" y="298" fill="#819BAD" font-family="DejaVu Sans Mono,monospace" font-size="16">/</text>
+<text x="525" y="298" fill="#C9DDE9" font-family="DejaVu Sans Mono,monospace" font-size="16">2025</text>
+<!-- Stylized technical building diagram: four endpoints per floor, not a floor plan -->
+<g stroke="#315B72" stroke-width="1.7" fill="none">
+ <rect x="799" y="73" width="296" height="216" rx="12" fill="#11283A" stroke="#568DA9"/>
+ <path d="M800 144H1094M800 216H1094"/>
+ <path d="M771 108H799M771 180H799M771 251H799M771 108V251" stroke="#65DFC4" stroke-width="2"/>
+ <path d="M771 180H725V251" stroke="#65DFC4" stroke-width="2"/>
+ <rect x="690" y="263" width="90" height="36" rx="7" stroke="#77C7FF" fill="#193950"/>
+</g>
+<text x="708" y="286" fill="#B7E6FD" font-family="DejaVu Sans Mono,monospace" font-size="12">SWITCH</text>
+<g fill="#4ADFC3" stroke="#0C2733" stroke-width="3">
+<circle cx="843" cy="107" r="9"/><circle cx="915" cy="107" r="9"/><circle cx="986" cy="107" r="9"/><circle cx="1058" cy="107" r="9"/>
+<circle cx="843" cy="180" r="9"/><circle cx="915" cy="180" r="9"/><circle cx="986" cy="180" r="9"/><circle cx="1058" cy="180" r="9"/>
+<circle cx="843" cy="252" r="9"/><circle cx="915" cy="252" r="9"/><circle cx="986" cy="252" r="9"/><circle cx="1058" cy="252" r="9"/>
+</g>
+<g font-family="DejaVu Sans Mono,monospace" font-size="13" fill="#7AA5B9"><text x="1112" y="112">F03</text><text x="1112" y="185">F02</text><text x="1112" y="257">F01</text></g>
+<path d="M791 312H1170" stroke="#294D64"/><text x="826" y="328" fill="#83A9BB" font-family="DejaVu Sans Mono,monospace" font-size="11">3 FLOORS  /  4 APs PER FLOOR</text>
+</svg>
